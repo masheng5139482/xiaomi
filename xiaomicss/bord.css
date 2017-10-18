@@ -1,12 +1,16 @@
 *{
 	margin: 0;
 	/* body=8px h1-h5 */
-	padding: 0;
+	padding: 0; 
+	/* 列表标签 */
 	font-weight: normal;
 	/* h1-h5 */
 	text-decoration: none;
 	/* a */
+	list-style-type: none;
 
+	font-style: normal;
+    /* 斜体 */
 }
 img{
 	width: 100%;
